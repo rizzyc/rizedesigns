@@ -1,0 +1,2 @@
+# rizedesigns
+Static site
